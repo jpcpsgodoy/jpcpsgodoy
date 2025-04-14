@@ -1,7 +1,6 @@
 ## 👋 Olá, eu sou o João Pedro
 
-Eu estudo Ciência da Computação na Universidade Estadual de Campinas (Unicamp) e me interesso por programação em **Java**, **Python** e **Power BI**. Atualmente, estou estudando **Machine Learning** e **Análise de Dados** com foco em entender como usar esses conhecimentos para criar soluções reais — como automatizar tarefas, fazer previsões e extrair informações úteis a partir de dados.
-
+Eu estudo Ciência da Computação na Universidade Estadual de Campinas (Unicamp) e me interesso por programação em **Java**, **Python** e **Power BI**. Atualmente, estou estudando Spring Framework com foco em desenvolver APIs REST e aplicações robustas em Java — buscando aplicar esses conhecimentos para criar soluções reais, como automatizar processos, estruturar sistemas web e integrar diferentes serviços de forma eficiente.
 ### 🛠️ Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
